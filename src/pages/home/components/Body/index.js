@@ -3,6 +3,7 @@ import { Jumbotron, Button } from 'reactstrap';
 import styles from './styles/body.module.css';
 import '@ptkdev/webcomponent-instagram-widget';
 import ScrollAnimation from 'react-animate-on-scroll';
+import 'animate.css/source/animate.css';
 
 const Body = () => {
   return (

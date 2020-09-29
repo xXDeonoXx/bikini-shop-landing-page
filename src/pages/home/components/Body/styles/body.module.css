@@ -55,9 +55,10 @@
 }
 .workWith h1 {
   align-self: center;
+  font-size: 38px;
 }
 .workWith p {
-  font-size: 19px;
+  font-size: 18px;
 }
 
 .swimming {
