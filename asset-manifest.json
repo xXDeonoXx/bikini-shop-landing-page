@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/bikini-shop-landing-page/static/css/main.97707e54.chunk.css",
-    "main.js": "/bikini-shop-landing-page/static/js/main.297bc08b.chunk.js",
-    "main.js.map": "/bikini-shop-landing-page/static/js/main.297bc08b.chunk.js.map",
+    "main.css": "/bikini-shop-landing-page/static/css/main.f366a651.chunk.css",
+    "main.js": "/bikini-shop-landing-page/static/js/main.78ea2f4e.chunk.js",
+    "main.js.map": "/bikini-shop-landing-page/static/js/main.78ea2f4e.chunk.js.map",
     "runtime-main.js": "/bikini-shop-landing-page/static/js/runtime-main.a0baa0c4.js",
     "runtime-main.js.map": "/bikini-shop-landing-page/static/js/runtime-main.a0baa0c4.js.map",
     "static/css/2.11829350.chunk.css": "/bikini-shop-landing-page/static/css/2.11829350.chunk.css",
-    "static/js/2.6dc495cb.chunk.js": "/bikini-shop-landing-page/static/js/2.6dc495cb.chunk.js",
-    "static/js/2.6dc495cb.chunk.js.map": "/bikini-shop-landing-page/static/js/2.6dc495cb.chunk.js.map",
+    "static/js/2.75bb8c2b.chunk.js": "/bikini-shop-landing-page/static/js/2.75bb8c2b.chunk.js",
+    "static/js/2.75bb8c2b.chunk.js.map": "/bikini-shop-landing-page/static/js/2.75bb8c2b.chunk.js.map",
     "index.html": "/bikini-shop-landing-page/index.html",
-    "precache-manifest.af0b49880e8e9488973432bc8f8defb5.js": "/bikini-shop-landing-page/precache-manifest.af0b49880e8e9488973432bc8f8defb5.js",
+    "precache-manifest.ab76c99800352f18beb4c41dcdc22b6e.js": "/bikini-shop-landing-page/precache-manifest.ab76c99800352f18beb4c41dcdc22b6e.js",
     "service-worker.js": "/bikini-shop-landing-page/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/bikini-shop-landing-page/static/css/2.11829350.chunk.css.map",
-    "static/css/main.97707e54.chunk.css.map": "/bikini-shop-landing-page/static/css/main.97707e54.chunk.css.map",
-    "static/js/2.6dc495cb.chunk.js.LICENSE.txt": "/bikini-shop-landing-page/static/js/2.6dc495cb.chunk.js.LICENSE.txt"
+    "static/css/main.f366a651.chunk.css.map": "/bikini-shop-landing-page/static/css/main.f366a651.chunk.css.map",
+    "static/js/2.75bb8c2b.chunk.js.LICENSE.txt": "/bikini-shop-landing-page/static/js/2.75bb8c2b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a0baa0c4.js",
     "static/css/2.11829350.chunk.css",
-    "static/js/2.6dc495cb.chunk.js",
-    "static/css/main.97707e54.chunk.css",
-    "static/js/main.297bc08b.chunk.js"
+    "static/js/2.75bb8c2b.chunk.js",
+    "static/css/main.f366a651.chunk.css",
+    "static/js/main.78ea2f4e.chunk.js"
   ]
 }
