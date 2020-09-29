@@ -18,7 +18,7 @@
   display: flex;
   align-self: flex-start;
 }
-.navlinks-wrapper a {
+.navlinks-wrapper > a {
   color: white;
   font-size: 20px;
   margin-right: 20px;

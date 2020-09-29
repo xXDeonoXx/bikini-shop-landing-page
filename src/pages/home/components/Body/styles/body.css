@@ -18,7 +18,7 @@
   flex-direction: column;
   padding-top: 180px;
 }
-.entry-div p {
+.entry-div > p {
   font-size: 40px;
   line-height: 40px;
 }
@@ -35,7 +35,7 @@
   margin-bottom: 0px !important;
   background-color: white !important;
 }
-.jumbotrom img {
+.jumbotrom > img {
   max-height: 100%;
   width: 30%;
   margin-left: 20px;
@@ -53,10 +53,10 @@
   flex-direction: column;
   padding: 15px;
 }
-.work-with h1 {
+.work-with > h1 {
   align-self: center;
 }
-.work-with p {
+.work-with > p {
   font-size: 19px;
 }
 
@@ -111,10 +111,10 @@
     height: 250px;
     width: 300px;
   }
-  .work-with h1 {
+  .work-with > h1 {
     font-size: 30px;
   }
-  .work-with p {
+  .work-with > p {
     font-size: 18px;
   }
 }
@@ -126,10 +126,10 @@
     top: 100%;
     left: 60%;
   }
-  .work-with h1 {
+  .work-with > h1 {
     font-size: 24px;
   }
-  .work-with p {
+  .work-with > p {
     font-size: 14px;
   }
 
@@ -138,7 +138,7 @@
     width: 60%;
     font-size: 15px;
   }
-  .jumbotrom h1 {
+  .jumbotrom > h1 {
     font-size: 30px;
   }
   .find-us {
