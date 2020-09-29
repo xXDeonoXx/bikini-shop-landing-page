@@ -1,7 +1,7 @@
 import React from 'react';
 import { Nav, NavItem, NavLink } from 'reactstrap';
 import './styles/index.css';
-import logo from '../../img/logo.jpg';
+import logo from './logo.jpg';
 
 const index = () => {
   return (
