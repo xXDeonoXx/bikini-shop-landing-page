@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bikini-shop-landing-page/static/css/main.d776752e.chunk.css",
+    "main.css": "/bikini-shop-landing-page/static/css/main.97707e54.chunk.css",
     "main.js": "/bikini-shop-landing-page/static/js/main.71abfde3.chunk.js",
     "main.js.map": "/bikini-shop-landing-page/static/js/main.71abfde3.chunk.js.map",
     "runtime-main.js": "/bikini-shop-landing-page/static/js/runtime-main.a0baa0c4.js",
@@ -9,17 +9,17 @@
     "static/js/2.69577c6f.chunk.js": "/bikini-shop-landing-page/static/js/2.69577c6f.chunk.js",
     "static/js/2.69577c6f.chunk.js.map": "/bikini-shop-landing-page/static/js/2.69577c6f.chunk.js.map",
     "index.html": "/bikini-shop-landing-page/index.html",
-    "precache-manifest.c303095f56d6cd9bb94db77108f2fa53.js": "/bikini-shop-landing-page/precache-manifest.c303095f56d6cd9bb94db77108f2fa53.js",
+    "precache-manifest.18880b900cac35500b4f6b056ee4a15f.js": "/bikini-shop-landing-page/precache-manifest.18880b900cac35500b4f6b056ee4a15f.js",
     "service-worker.js": "/bikini-shop-landing-page/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/bikini-shop-landing-page/static/css/2.11829350.chunk.css.map",
-    "static/css/main.d776752e.chunk.css.map": "/bikini-shop-landing-page/static/css/main.d776752e.chunk.css.map",
+    "static/css/main.97707e54.chunk.css.map": "/bikini-shop-landing-page/static/css/main.97707e54.chunk.css.map",
     "static/js/2.69577c6f.chunk.js.LICENSE.txt": "/bikini-shop-landing-page/static/js/2.69577c6f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a0baa0c4.js",
     "static/css/2.11829350.chunk.css",
     "static/js/2.69577c6f.chunk.js",
-    "static/css/main.d776752e.chunk.css",
+    "static/css/main.97707e54.chunk.css",
     "static/js/main.71abfde3.chunk.js"
   ]
 }

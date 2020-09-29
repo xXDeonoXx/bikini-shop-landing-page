@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bikini-shop-landing-page/precache-manifest.c303095f56d6cd9bb94db77108f2fa53.js"
+  "/bikini-shop-landing-page/precache-manifest.18880b900cac35500b4f6b056ee4a15f.js"
 );
 
 self.addEventListener('message', (event) => {

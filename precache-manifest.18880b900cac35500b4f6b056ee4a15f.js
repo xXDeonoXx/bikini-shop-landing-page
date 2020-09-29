@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b29929749f31ac20e259b9e0a8c59127",
+    "revision": "f82d618138869894db4cee5331bef82c",
     "url": "/bikini-shop-landing-page/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bikini-shop-landing-page/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "1f4d5200ba71885adb6c",
-    "url": "/bikini-shop-landing-page/static/css/main.d776752e.chunk.css"
+    "revision": "73e719d17806a8c129b1",
+    "url": "/bikini-shop-landing-page/static/css/main.97707e54.chunk.css"
   },
   {
     "revision": "7138d803e4478902abc3",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bikini-shop-landing-page/static/js/2.69577c6f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1f4d5200ba71885adb6c",
+    "revision": "73e719d17806a8c129b1",
     "url": "/bikini-shop-landing-page/static/js/main.71abfde3.chunk.js"
   },
   {
