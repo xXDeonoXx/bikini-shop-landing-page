@@ -1,17 +1,17 @@
 import React from 'react';
 import { Nav, NavItem, NavLink } from 'reactstrap';
-import './styles/index.css';
+import styles from './styles/topBar.module.css';
 import logo from './logo.jpg';
 
 const index = () => {
   return (
-    <div className='teste'>
-      <Nav className='navbar'>
-        <div className='topbar-wrapper'>
-          <img className='topbar-logo' src={logo} />
-          <p className='title'>𝐴𝑟𝑜𝑤𝑎𝑛𝑎</p>
+    <div className={styles.teste}>
+      <Nav className={styles.navbar}>
+        <div className={styles.topbarWrapper}>
+          <img className={styles.topbarLogo} src={logo} />
+          <p className={styles.title}>𝐴𝑟𝑜𝑤𝑎𝑛𝑎</p>
         </div>
-        <div className='navlinks-wrapper'>
+        <div className={styles.navlinksWrapper}>
           <NavItem>
             <NavLink href='#'>Inicio</NavLink>
           </NavItem>

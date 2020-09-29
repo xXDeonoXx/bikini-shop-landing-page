@@ -4,7 +4,7 @@
   justify-items: center;
   align-content: center;
 }
-.entry-div {
+.entryDiv {
   background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
     url('https://assets.newatlas.com/dims4/default/1aca086/2147483647/strip/true/crop/1992x1328+4+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ffe%2F06%2F75f2c8704c71ade9c8881c997c8f%2Fdepositphotos-41105113-l-2015.jpg');
   background-size: cover;
@@ -18,7 +18,7 @@
   flex-direction: column;
   padding-top: 180px;
 }
-.entry-div p {
+.entryDiv p {
   font-size: 40px;
   line-height: 40px;
 }
@@ -41,7 +41,7 @@
   margin-left: 20px;
   border-radius: 50%;
 }
-.work-with {
+.workWith {
   background-color: white;
   height: 250px;
   width: 330px;
@@ -53,10 +53,10 @@
   flex-direction: column;
   padding: 15px;
 }
-.work-with h1 {
+.workWith h1 {
   align-self: center;
 }
-.work-with p {
+.workWith p {
   font-size: 19px;
 }
 
@@ -71,7 +71,7 @@
 
   z-index: -1 !important;
 }
-.some-products {
+.someProducts {
   width: 100%;
   margin: 450px 0px 0px 0px;
   display: flex;
@@ -79,13 +79,13 @@
   justify-content: center;
   z-index: 0;
 }
-.instagram-widget-title {
+.instagramWidgetTitle {
   font-size: 60px;
 }
-.find-us-title {
+.findUsTitle {
   font-size: 30px;
 }
-.find-us {
+.findUs {
   height: 500px;
   color: white;
   display: flex;
@@ -107,29 +107,29 @@
 }
 
 @media only screen and (max-width: 1150px) {
-  .work-with {
+  .workWith {
     height: 250px;
     width: 300px;
   }
-  .work-with h1 {
+  .workWith h1 {
     font-size: 30px;
   }
-  .work-with p {
+  .workWith p {
     font-size: 18px;
   }
 }
 
 @media only screen and (max-width: 960px) {
-  .work-with {
+  .workWith {
     height: 310px;
     width: 150px;
     top: 100%;
     left: 60%;
   }
-  .work-with h1 {
+  .workWith h1 {
     font-size: 24px;
   }
-  .work-with p {
+  .workWith p {
     font-size: 14px;
   }
 
@@ -141,11 +141,11 @@
   .jumbotrom h1 {
     font-size: 30px;
   }
-  .find-us {
+  .findUs {
     display: flex;
     flex-direction: column;
   }
-  .instagram-widget-title {
+  .instagramWidgetTitle {
     font-size: 35px;
     text-align: center;
   }
@@ -153,7 +153,7 @@
 
 /* Mobile Size */
 @media only screen and (max-width: 420px) {
-  .entry-div {
+  .entryDiv {
     padding-top: 20px;
   }
 
@@ -164,7 +164,7 @@
     font-size: 14px;
   }
 
-  .work-with {
+  .workWith {
     height: 310px;
     width: 180px;
     top: 1340px;
@@ -176,11 +176,11 @@
     width: 100%;
     font-size: 15px;
   }
-  .find-us {
+  .findUs {
     display: flex;
     flex-direction: column;
   }
-  .instagram-widget-title {
+  .instagramWidgetTitle {
     font-size: 35px;
     text-align: center;
   }

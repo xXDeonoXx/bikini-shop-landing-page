@@ -1,13 +1,13 @@
 import React, { useState } from 'react';
 import { Jumbotron, Button } from 'reactstrap';
-import './styles/body.css';
+import styles from './styles/body.module.css';
 import '@ptkdev/webcomponent-instagram-widget';
 import ScrollAnimation from 'react-animate-on-scroll';
 
 const Body = () => {
   return (
-    <div className='wrapper'>
-      <div className='entry-div'>
+    <div className={styles.wrapper}>
+      <div className={styles.entryDiv}>
         <ScrollAnimation animateOnce={true} delay={500} animateIn='fadeIn'>
           <p>Mergulhe no verão.</p>
         </ScrollAnimation>
@@ -16,7 +16,7 @@ const Body = () => {
         </ScrollAnimation>
       </div>
       <ScrollAnimation animateOnce={true} animateIn='fadeIn'>
-        <Jumbotron className='jumbotrom'>
+        <Jumbotron className={styles.jumbotrom}>
           <div>
             <h1 className='display-5'>Moda praia Atacado e Varejo</h1>
             <p>
@@ -46,7 +46,7 @@ const Body = () => {
             </div>
           </div>
         </Jumbotron>
-        <div className='work-with fadeIn'>
+        <div className={styles.workWith + ' fadeIn'}>
           <h1>Nossos produtos</h1>
           <p>
             Trabalhamos com vendas em atacado e varejo, todos nossos produtos
@@ -58,13 +58,15 @@ const Body = () => {
       <ScrollAnimation
         animateOnce={true}
         animateIn='fadeIn'
-        className='swimming'
+        className={styles.swimming}
       ></ScrollAnimation>
 
       <div className='d-flex flex-column align-items-center'>
         <ScrollAnimation animateOnce={true} animateIn='fadeIn' delay={2000}>
-          <div className='some-products'>
-            <p className='instagram-widget-title'>Alguns de nossos modelos.</p>
+          <div className={styles.someProducts}>
+            <p className={styles.instagramWidgetTitle}>
+              Alguns de nossos modelos.
+            </p>
           </div>
         </ScrollAnimation>
         <instagram-widget
@@ -74,7 +76,7 @@ const Body = () => {
         />
         <ScrollAnimation animateOnce={true} animateIn='fadeIn'>
           <div style={{ width: '100%', height: '100%' }}>
-            <Jumbotron className='find-us'>
+            <Jumbotron className={styles.findUs}>
               <div style={{ width: '100%' }} className='pr-5'>
                 <h1 className='display-5'>Onde nos encontrar</h1>
                 <p>

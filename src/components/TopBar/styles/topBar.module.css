@@ -14,16 +14,16 @@
   height: 400px;
   color: whie;
 }
-.navlinks-wrapper {
+.navlinksWrapper {
   display: flex;
   align-self: flex-start;
 }
-.navlinks-wrapper a {
+.navlinksWrapper a {
   color: white;
   font-size: 20px;
   margin-right: 20px;
 }
-.topbar-logo {
+.topbarLogo {
   height: 150px;
   border-radius: 50%;
 }
@@ -36,19 +36,18 @@
   top: 30px;
   font-family: 'Caveat', cursive;
 }
-.topbar-wrapper {
+.topbarWrapper {
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-top: 120px;
 }
 
-@media only screen and (min-width: 1150px) {
-}
 @media only screen and (max-width: 1150px) {
-  .topbar-wrapper {
+  .topbarWrapper {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -56,11 +55,12 @@
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
+    margin-top: 120px;
   }
 }
 
 @media only screen and (max-width: 960px) {
-  .topbar-wrapper {
+  .topbarWrapper {
     display: flex;
     flex-direction: column;
     margin-top: 120px;
